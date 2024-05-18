@@ -43,4 +43,4 @@ const data = (fName, lName) => {
 
 data("Java", "Script");
 
-//Argumnets(Values) corresponds to the parameter
+//Arguments(Values) corresponds to the parameter
